@@ -1,0 +1,11 @@
+tr th, tr td {
+    padding: 10px;
+}
+
+table{
+    margin: 0 auto;
+    height: 100px;
+}
+body{
+    text-align: center;
+}
