@@ -16,7 +16,7 @@ function table1Controller() {
     vm.pushRows();
 
     function pushRows() {
-        for (var i=0; i < 6; i++){
+        for (var i=0; i < 10; i++){
             vm.rows.push(i);
         }
     }
